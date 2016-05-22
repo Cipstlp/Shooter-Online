@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer.CSharp.Plugins", "shooter-multiplayer.CSharp.Plugins.csproj", "{C40E4492-7C75-FA24-F64D-E95CFEEE7DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer.CSharp", "shooter-multiplayer.CSharp.csproj", "{0EDA2545-EDC4-38C2-6758-68B7F7431535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer.CSharp.Editor.Plugins", "shooter-multiplayer.CSharp.Editor.Plugins.csproj", "{87A5BCDB-2811-9B60-A329-E5FB0977BEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooter-multiplayer.CSharp.Editor", "shooter-multiplayer.CSharp.Editor.csproj", "{CC77990F-95B8-341D-B026-CA5CB7155C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40E4492-7C75-FA24-F64D-E95CFEEE7DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40E4492-7C75-FA24-F64D-E95CFEEE7DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40E4492-7C75-FA24-F64D-E95CFEEE7DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40E4492-7C75-FA24-F64D-E95CFEEE7DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDA2545-EDC4-38C2-6758-68B7F7431535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDA2545-EDC4-38C2-6758-68B7F7431535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDA2545-EDC4-38C2-6758-68B7F7431535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDA2545-EDC4-38C2-6758-68B7F7431535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A5BCDB-2811-9B60-A329-E5FB0977BEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A5BCDB-2811-9B60-A329-E5FB0977BEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A5BCDB-2811-9B60-A329-E5FB0977BEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A5BCDB-2811-9B60-A329-E5FB0977BEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC77990F-95B8-341D-B026-CA5CB7155C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC77990F-95B8-341D-B026-CA5CB7155C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC77990F-95B8-341D-B026-CA5CB7155C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC77990F-95B8-341D-B026-CA5CB7155C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
